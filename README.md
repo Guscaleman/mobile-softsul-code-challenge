@@ -12,6 +12,7 @@ Aplicação mobile em React Native com Expo para gerenciamento de pedidos.
 ```
 npm install
 ```
+em seguida:
 ```
 npm expo start
 ```

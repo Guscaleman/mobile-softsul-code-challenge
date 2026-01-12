@@ -20,7 +20,11 @@ npm expo start
 
 ## Como testar o app no seu celular
 
+### Android
+
 - Baixe o aplicativo Expo Go na sua loja de aplicativos.
+
+### iOS
 - Rode a aplicação localmente na sua máquina com as instruções acima.
 - Conecte seu celular na mesma rede na qual a aplicação está sendo rodada.
 - Aponte a câmera do seu celular no QR Code que é gerado no terminal.

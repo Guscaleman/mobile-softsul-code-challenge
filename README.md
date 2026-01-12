@@ -1,6 +1,7 @@
 # Orders App
 
 Aplicação mobile em React Native com Expo para gerenciamento de pedidos.
+O backend da aplicação se encontra no seguinte [repositório](https://github.com/Guscaleman/mobile-code-challenge)
 
 ## Tecnologias
 - React Native

@@ -24,7 +24,7 @@ npm expo start
 
 - Baixe o app Expo Go no Google Play Store.
 - Conecte seu celular na mesma rede na qual a aplicação for rodada.
-- Abra o app e selecione a opção "Scan QR Code"
+- Abra o app e selecione a opção "Scan QR Code".
 - Aponte a câmera no QR Code que foi gerado no seu terminal após rodar a aplicação.
 
 ### iOS
